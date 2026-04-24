@@ -25,7 +25,8 @@ This project analyzes sales data and presents insights through an interactive Po
 
 ## Dashboard Preview
 
-The dashboard provides a clear and interactive view of sales performance across different regions, categories, and customer segments. It includes dynamic filters, KPI indicators, and visual charts that help users quickly identify trends, compare performance, and make data-driven decisions.
+![Dashboard](dashboard.png)
+*Interactive dashboard built using Power BI showing sales trends, category performance, and regional analysis.*
 
 ## Conclusion
 
